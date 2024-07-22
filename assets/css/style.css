@@ -1,0 +1,98 @@
+.navbar {
+    background-color: #051B54;
+    color: #fff;
+}
+
+.nav-item {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.tab-link {
+    color: #051B54
+}
+
+.nav-link.active {
+    color: #fff;
+}
+
+.nav-link.show {
+    color: #fff;
+}
+
+.nav {
+    color: #fff;
+}
+
+.navbar-nav {
+    color: #fff;
+}
+
+.active {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+.btn-ini-ses {
+    background-color: #FFFFFF33;
+    color: #fff;
+    border-radius: 25px;
+}
+
+.oferta {
+    background-color: #62DAD3;
+    display: inline-block;
+}
+
+.navbar-toggler {
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    color: #fff;
+}
+
+.dropdown-toggle {
+    color: #fff;
+}
+
+.menu-select {
+    color: #051B54;
+    margin-right: 15%;
+}
+
+.col-4 {
+    color: black;
+}
+
+.col-8 {
+    color: black;
+    padding-left: 5%;
+}
+
+.selectores {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: dimgray;
+    margin-top: 2%;
+    width: 98%;
+}
+
+.dropdown {
+    display: inline-block;
+    margin-right: 2%;
+}
+
+.sombras {
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 0 rgba(20, 20, 20, 0.3), -2px -2px 4px 0 rgba(20, 20, 20, 0.3);
+    margin-top: 2%;
+    width: 98%;
+}
